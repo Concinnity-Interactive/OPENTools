@@ -1,3 +1,4 @@
+
 # ⚡ Concinnity: Open Source Projects
 
 Welcome to the public sandbox. This repository houses the standalone, open-source utilities and experimental playgrounds from the Concinnity ecosystem. Built for local execution, self-hosting, and tinkering.
@@ -13,8 +14,33 @@ Welcome to the public sandbox. This repository houses the standalone, open-sourc
 
 ## 🔍 Data Verification & Archiving
 
-* **ZeroSpin** 🌐: A web browser extension engineered to audit the source, integrity, and provenance of web content. It brings clarity to the web by validating claims directly at the point of consumption.
+* **SideEye** 👀: A web browser extension engineered to audit the source, integrity, and provenance of web content. It brings clarity to the web by validating claims and tracking source paths directly at the point of consumption.
 * **LOAA** 📚: Our decentralized codebase designed for permanent data archiving, immutable information preservation, and open distribution across distributed networks.
+
+---
+
+## 🔮 Upcoming Releases
+
+Previews and conceptual frameworks currently cooking behind the scenes. Watch this space for future open-source modules, tools, and language syntaxes.
+
+### 🦅 Corvis lang (f.k.a. Cobra)
+
+The "Python'd" edition of our execution layer. Built to offer the clean, expressive readability of high-level scripting while maintaining an under-the-hood structural foundation.
+
+### 🌀 Project Unshaped: The Generational Reversion Framework
+
+Project Unshaped is an architectural experiment in collapsing the software stack. It challenges modern software bloat by reversing high-level code back down to bare-metal assembly primitives, completely changing how we think about compilation and optimization.
+
+* **2GL Core Architecture**: The framework strips away heavy modern virtual machines, abstraction layers, and bulky runtimes, de-constructing logic directly into low-level Second-Generation Language (2GL) instruction sets.
+* **4GL Developer Ergonomics**: While the output is pure bare-metal code, the interface acts like a Fourth-Generation Language (4GL). Developers write declarative, high-level commands, allowing for rapid application design without losing low-level execution efficiency.
+* **Zero-Overhead Pipelines**: By bypassing traditional intermediate runtimes, systems compiled through Unshaped achieve near-instantaneous execution speeds, deterministic performance, and absolute hardware sovereignty.
+
+---
+
+> ### ✨ Ecosystem Spotlight: SmithWorks
+> 
+> 
+> Looking for a dedicated workspace optimized for deep model interaction? Be sure to check out **SmithWorks**—the dedicated interface built to cleanly bridge the gap between raw compute power and structured reasoning outputs.
 
 ---
 
@@ -26,7 +52,7 @@ Each independent project lives inside its own dedicated directory:
 * `/logos` — Discord Moderation Sandbox
 
 
-* `/zerospin` — Web Verification Plugin *(ZeroSpin)*
+* `/sideeye` — Web Verification Plugin *(SideEye)*
 * `/loaa` — Decentralized Archive Codebase
 
 ## 🚀 Tinker & Contribute
