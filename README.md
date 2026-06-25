@@ -1,38 +1,38 @@
-# Concinnity Open Source Projects
+# ⚡ Concinnity: Open Source Projects
 
-This repository houses the open-source tools developed within the Concinnity ecosystem. These utilities provide localized automation, community management, and data verification frameworks.
-
-## Included Projects
-
-### Software & Automation
-
-* **NOSaaS**: A local, self-hosted engine dedicated to Text-to-Speech (TTS) and Speech-to-Text (STT) processing.
-* **LOGOs**: A comprehensive moderation and community management cog built for the Redbot framework using Python 3.11+. It includes a 10-step interactive setup wizard, 105 commands, and 40 database tables to handle user verification, active invite tracking, ticket management, and voice channel accountability.
-
-
-
-### Data Verification & Archiving
-
-* **Web Browser Claims Extension**: A browser plugin built to check and verify the source, integrity, and provenance of web-based content.
-* **Library of Alexandria**: A decentralized codebase designed for the permanent archiving, preservation, and open distribution of data.
+Welcome to the public sandbox. This repository houses the standalone, open-source utilities and experimental playgrounds from the Concinnity ecosystem. Built for local execution, self-hosting, and tinkering.
 
 ---
 
-## Repository Layout
+## 🛠️ The Software Fleet
 
-The source code for each independent project is located within its respective directory:
-
-* `/nosaas` — TTS/STT Engine
-* `/logos` — Discord Moderation Cog
+* **NOSaaS (OpenThroat)** 🗣️: A local, completely self-hosted engine dedicated to high-fidelity Text-to-Speech (TTS) and Speech-to-Text (STT) processing. No cloud telemetry, no SaaS hooks—just raw, local voice processing.
+* **LOGOs (Sandbox Edition)** 🤖: A classic, early-stage build of our Discord moderation and community management cog for the Redbot framework. Consider this public release a functional playground to test out core automation logic, interactive setup components, and database tracking in your own test servers. It's a great sandbox for tinkering while the advanced, heavy-duty deployment builds remain vaulted internally.
 
 
-* `/browser-ext` — Web Verification Plugin
-* `/library-alexandria` — Decentralized Archive
 
-## Development & Contributions
+## 🔍 Data Verification & Archiving
 
-Contributions, bug reports, and pull requests are welcome. Please review the guidelines in `CONTRIBUTING.md` regarding code structure, efficiency, and performance criteria before submitting your changes.
+* **Deco (decohered)** 🌐: A web browser extension engineered to audit the source, integrity, and provenance of web content. It brings clarity to the web by validating claims directly at the point of consumption.
+* **LOAA** 📚: Our decentralized codebase designed for permanent data archiving, immutable information preservation, and open distribution across distributed networks.
 
 ---
 
-*© 2026 Concinnity Interactive.*
+## 📂 Repository Layout
+
+Each independent project lives inside its own dedicated directory:
+
+* `/nosaas` — TTS/STT Engine *(OpenThroat)*
+* `/logos` — Discord Moderation Sandbox
+
+
+* `/deco` — Web Verification Plugin *(decohered)*
+* `/loaa` — Decentralized Archive Codebase
+
+## 🚀 Tinker & Contribute
+
+We welcome community forks, local modifications, and experimental pull requests. Check out `CONTRIBUTING.md` for our performance and code style baselines before pushing changes.
+
+---
+
+*© 2026 Concinnity Interactive. Verified by Design.*
