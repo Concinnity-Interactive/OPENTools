@@ -13,7 +13,7 @@ Welcome to the public sandbox. This repository houses the standalone, open-sourc
 
 ## 🔍 Data Verification & Archiving
 
-* **Deco (decohered)** 🌐: A web browser extension engineered to audit the source, integrity, and provenance of web content. It brings clarity to the web by validating claims directly at the point of consumption.
+* **ZeroSpin** 🌐: A web browser extension engineered to audit the source, integrity, and provenance of web content. It brings clarity to the web by validating claims directly at the point of consumption.
 * **LOAA** 📚: Our decentralized codebase designed for permanent data archiving, immutable information preservation, and open distribution across distributed networks.
 
 ---
@@ -26,7 +26,7 @@ Each independent project lives inside its own dedicated directory:
 * `/logos` — Discord Moderation Sandbox
 
 
-* `/deco` — Web Verification Plugin *(decohered)*
+* `/zerospin` — Web Verification Plugin *(ZeroSpin)*
 * `/loaa` — Decentralized Archive Codebase
 
 ## 🚀 Tinker & Contribute
